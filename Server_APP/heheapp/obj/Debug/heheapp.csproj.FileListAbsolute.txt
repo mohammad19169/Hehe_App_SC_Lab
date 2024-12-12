@@ -1,0 +1,10 @@
+C:\Users\BUKC\Desktop\heheapp\bin\Debug\heheapp.exe.config
+C:\Users\BUKC\Desktop\heheapp\bin\Debug\heheapp.exe
+C:\Users\BUKC\Desktop\heheapp\bin\Debug\heheapp.pdb
+C:\Users\BUKC\Desktop\heheapp\obj\Debug\heheapp.csproj.AssemblyReference.cache
+C:\Users\BUKC\Desktop\heheapp\obj\Debug\heheapp.Form1.resources
+C:\Users\BUKC\Desktop\heheapp\obj\Debug\heheapp.Properties.Resources.resources
+C:\Users\BUKC\Desktop\heheapp\obj\Debug\heheapp.csproj.GenerateResource.cache
+C:\Users\BUKC\Desktop\heheapp\obj\Debug\heheapp.csproj.CoreCompileInputs.cache
+C:\Users\BUKC\Desktop\heheapp\obj\Debug\heheapp.exe
+C:\Users\BUKC\Desktop\heheapp\obj\Debug\heheapp.pdb

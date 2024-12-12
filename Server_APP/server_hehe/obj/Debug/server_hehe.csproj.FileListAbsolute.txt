@@ -1,0 +1,7 @@
+C:\Users\BUKC\Desktop\server_hehe\bin\Debug\server_hehe.exe.config
+C:\Users\BUKC\Desktop\server_hehe\bin\Debug\server_hehe.exe
+C:\Users\BUKC\Desktop\server_hehe\bin\Debug\server_hehe.pdb
+C:\Users\BUKC\Desktop\server_hehe\obj\Debug\server_hehe.csproj.AssemblyReference.cache
+C:\Users\BUKC\Desktop\server_hehe\obj\Debug\server_hehe.csproj.CoreCompileInputs.cache
+C:\Users\BUKC\Desktop\server_hehe\obj\Debug\server_hehe.exe
+C:\Users\BUKC\Desktop\server_hehe\obj\Debug\server_hehe.pdb
